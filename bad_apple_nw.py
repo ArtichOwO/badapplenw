@@ -2,7 +2,7 @@ from kandinsky import *
 from time import *
 
 pal=[(0,0,0),(255,255,255)]
-im=[] # Copy here the value of im (use bad apple.py before to generate it)
+im=[] # Copy here the value of im (use generate-im.py before to generate it)
 r=0
 y=0
 x=0
